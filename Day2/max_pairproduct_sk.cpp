@@ -47,6 +47,6 @@ int main ()
 int arr[]={1,4,7,9,4};
 n=sizeof(arr)/sizeof(arr[0]);
 maxpair_product(arr,n);
-return o;
+return 0;
 }
 
